@@ -7,7 +7,7 @@
 </p>
 <h3 align="left">My JetBrains Academy Account:</h3>
 <p align="left">
-<a href="https://hyperskill.org/profile/239757123" target="blank"><img align="center" src="/static/favicons/favicon-152.png" alt="stormangll" height="30" width="40" /></a>
+<a href="https://hyperskill.org/profile/239757123" target="blank"><img align="center" src="/static/favicons/favicon-32.png" height="32" width="32" /></a>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
